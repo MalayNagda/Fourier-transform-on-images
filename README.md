@@ -14,5 +14,5 @@ The original images are-
 
 After swapping the phases, the images look like-
 <p align="center">
-  <img src="images/ph2_ph1.png">
+  <img src="images/ph2ph1.png">
 </p>
