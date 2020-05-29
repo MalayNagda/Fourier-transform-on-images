@@ -9,10 +9,10 @@ Inverse Fourier transform is then performed on this result so that results of th
 
 The original images are- 
 <p align="center">
-  <img src="images/9n10.PNG">
+  <img src="images/9n10.png">
 </p>
 
 After swapping the phases, the images look like-
 <p align="center">
-  <img src="images/ph2_ph1.PNG">
+  <img src="images/ph2_ph1.png">
 </p>
