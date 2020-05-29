@@ -1,6 +1,6 @@
 # Fourier transform on images
 
-The objective was to see how Fourier transform can be used on images to get useful information about images that can be used for various image processing purposes.
+The objective was to see how Fourier transform can be used on images to get useful information about them that can be used for various image processing purposes.
 
 ## Phase swapping 
 
