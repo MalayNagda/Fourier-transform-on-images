@@ -23,3 +23,16 @@ information of the original image on the left. Similarly, we can see the 'Stanle
 
 ## Hybrid images
 
+The results given in the paper ['Hybrid images'](https://stanford.edu/class/ee367/reading/OlivaTorralb_Hybrid_Siggraph06.pdf) have been tried to be replicated. 
+
+The low frequencies of one images are combined with the high frequencies of the other image.
+
+The original two images are-
+<p align="center">
+  <img src="images/hmmm.png">
+</p>
+
+After combiing the two images the result is-
+<p align="center">
+  <img src="images/hybrid.png">
+</p>
