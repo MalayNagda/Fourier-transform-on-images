@@ -17,3 +17,9 @@ After swapping the phases, the images look like-
   <img src="images/ph2ph1.png">
   The left image here contains the phase of original right image and vice versa for the right image here.
 </p>
+
+From these results it can be said that phase information contains the location of the features as we can partially the rail tracks in the left image of the result and very little 
+information of the original image on the left. Similarly, we can see the 'Stanley' hoarding in the right image of the result which was originally present in the left image. 
+
+## Hybrid images
+
